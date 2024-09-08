@@ -1,0 +1,59 @@
+﻿[23/07/24 22:44:17] info: Program: Starting Squirrel Updater: --install .
+[23/07/24 22:44:17] info: Program: Starting install, writing to C:\Users\Naser\AppData\Local\SquirrelTemp
+[23/07/24 22:44:17] info: Program: About to install to: C:\Users\Naser\AppData\Local\Figma
+[23/07/24 22:44:17] info: CheckForUpdateImpl: Reading RELEASES file from C:\Users\Naser\AppData\Local\SquirrelTemp
+[23/07/24 22:44:17] info: CheckForUpdateImpl: First run, starting from scratch
+[23/07/24 22:44:18] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\Naser\AppData\Local\Figma\app-124.2.9
+[23/07/24 22:44:22] info: LogHost: Rigging execution stub for Figma_ExecutionStub.exe to C:\Users\Naser\AppData\Local\Figma\Figma.exe
+[23/07/24 22:44:25] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Naser\AppData\Local\Figma\app-124.2.9\Figma.exe]
+[23/07/24 22:44:26] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[23/07/24 22:44:26] info: ApplyReleasesImpl: Fixing up tray icons
+[23/07/24 22:44:26] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 124.2.9
+[23/07/24 22:44:26] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-124.2.9
+[23/07/24 22:44:27] info: Program: Finished Squirrel Updater
+[23/07/24 22:58:02] info: Program: Starting Squirrel Updater: --install .
+[23/07/24 22:58:02] info: Program: Starting install, writing to C:\Users\Naser\AppData\Local\SquirrelTemp
+[23/07/24 22:58:02] info: Program: About to install to: C:\Users\Naser\AppData\Local\Figma
+[23/07/24 22:58:02] warn: Program: Install path C:\Users\Naser\AppData\Local\Figma already exists, burning it to the ground
+[23/07/24 22:58:03] info: CheckForUpdateImpl: Reading RELEASES file from C:\Users\Naser\AppData\Local\SquirrelTemp
+[23/07/24 22:58:03] info: CheckForUpdateImpl: First run, starting from scratch
+[23/07/24 22:58:04] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\Naser\AppData\Local\Figma\app-124.2.9
+[23/07/24 22:58:07] info: LogHost: Rigging execution stub for Figma_ExecutionStub.exe to C:\Users\Naser\AppData\Local\Figma\Figma.exe
+[23/07/24 22:58:10] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Naser\AppData\Local\Figma\app-124.2.9\Figma.exe]
+[23/07/24 22:58:11] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[23/07/24 22:58:11] info: ApplyReleasesImpl: Processing shortcut 'C:\Users\Naser\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Figma.lnk'
+[23/07/24 22:58:11] info: ApplyReleasesImpl: Old shortcut target: 'C:\Users\Naser\AppData\Local\Figma\app-124.2.9\Figma.exe'
+[23/07/24 22:58:11] info: ApplyReleasesImpl: New shortcut target: 'C:\Users\Naser\AppData\Local\Figma\Figma.exe'
+[23/07/24 22:58:11] info: ApplyReleasesImpl: Old iconPath is: ''
+[23/07/24 22:58:12] info: ApplyReleasesImpl: Finished shortcut successfully
+[23/07/24 22:58:12] info: ApplyReleasesImpl: Fixing up tray icons
+[23/07/24 22:58:12] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 124.2.9
+[23/07/24 22:58:12] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-124.2.9
+[23/07/24 22:58:13] info: Program: Finished Squirrel Updater
+[14/08/24 11:28:46] info: Program: Starting Squirrel Updater: --install .
+[14/08/24 11:28:46] info: Program: Starting install, writing to C:\Users\Naser\AppData\Local\SquirrelTemp
+[14/08/24 11:28:47] info: Program: About to install to: C:\Users\Naser\AppData\Local\GitHubDesktop
+[14/08/24 11:28:47] info: CheckForUpdateImpl: Reading RELEASES file from C:\Users\Naser\AppData\Local\SquirrelTemp
+[14/08/24 11:28:47] info: CheckForUpdateImpl: First run, starting from scratch
+[14/08/24 11:28:48] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\Naser\AppData\Local\GitHubDesktop\app-3.4.3
+[14/08/24 11:28:52] info: LogHost: Rigging execution stub for GitHubDesktop_ExecutionStub.exe to C:\Users\Naser\AppData\Local\GitHubDesktop\GitHubDesktop.exe
+[14/08/24 11:29:02] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Naser\AppData\Local\GitHubDesktop\app-3.4.3\GitHubDesktop.exe]
+[14/08/24 11:29:08] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[14/08/24 11:29:08] info: ApplyReleasesImpl: Fixing up tray icons
+[14/08/24 11:29:08] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 3.4.3
+[14/08/24 11:29:08] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-3.4.3
+[14/08/24 11:29:10] info: Program: Finished Squirrel Updater
+[14/08/24 11:30:58] info: Program: Starting Squirrel Updater: --install .
+[14/08/24 11:30:58] info: Program: Starting install, writing to C:\Users\Naser\AppData\Local\SquirrelTemp
+[14/08/24 11:30:58] info: Program: About to install to: C:\Users\Naser\AppData\Local\GitHubDesktop
+[14/08/24 11:30:58] warn: Program: Install path C:\Users\Naser\AppData\Local\GitHubDesktop already exists, burning it to the ground
+[14/08/24 11:31:00] info: CheckForUpdateImpl: Reading RELEASES file from C:\Users\Naser\AppData\Local\SquirrelTemp
+[14/08/24 11:31:00] info: CheckForUpdateImpl: First run, starting from scratch
+[14/08/24 11:31:01] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\Naser\AppData\Local\GitHubDesktop\app-3.4.4-beta1
+[14/08/24 11:31:04] info: LogHost: Rigging execution stub for GitHubDesktop_ExecutionStub.exe to C:\Users\Naser\AppData\Local\GitHubDesktop\GitHubDesktop.exe
+[14/08/24 11:31:12] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Naser\AppData\Local\GitHubDesktop\app-3.4.4-beta1\GitHubDesktop.exe]
+[14/08/24 11:31:14] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[14/08/24 11:31:14] info: ApplyReleasesImpl: Fixing up tray icons
+[14/08/24 11:31:14] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 3.4.4-beta1
+[14/08/24 11:31:14] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-3.4.4-beta1
+[14/08/24 11:31:16] info: Program: Finished Squirrel Updater
